@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam00300&label=Profile%20views&color=0e75b6&style=flat" alt="sam00300" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam00300" alt="sam00300" /></a> </p>
-
 - 🌱 I’m currently learning **Advanced techniques in data analysis and data-driven decision-making.**
 
 - 💬 Ask me about **Working with Google Colab, pivot tables, and hands-on tips for Data Science and Big Data Analytics.**
